@@ -11,3 +11,9 @@ create, collect and must analyze is huge. Every day over 100,000 pieces of conte
 from text, images, videos and GIFs are posted.
 
 The goal is to categorize the data posted and reacted to on the platform by users while maintatining appropriate data practices for data collection and use.
+
+modelDataQuery contains the queries for the first attempt at the Business Problem
+
+modelSolutionQuery holds the queries that produced the final model data for the Business Problem
+
+solCategories.csv shows the top categories of the content engaged with and consumed by users of the Social Buzz network
